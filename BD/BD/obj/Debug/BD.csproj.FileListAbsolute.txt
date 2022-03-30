@@ -1,0 +1,6 @@
+C:\Users\инет\source\repos\BD\BD\obj\Debug\BD.csproj.AssemblyReference.cache
+C:\Users\инет\source\repos\BD\BD\obj\Debug\BD.AddForm.resources
+C:\Users\инет\source\repos\BD\BD\obj\Debug\BD.Form1.resources
+C:\Users\инет\source\repos\BD\BD\obj\Debug\BD.Properties.Resources.resources
+C:\Users\инет\source\repos\BD\BD\obj\Debug\BD.csproj.GenerateResource.cache
+C:\Users\инет\source\repos\BD\BD\obj\Debug\BD.csproj.CoreCompileInputs.cache
