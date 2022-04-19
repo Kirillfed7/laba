@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp3.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp3"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="500" Width="800">
+    <Grid>
+        <ListBox HorizontalAlignment="Left" Height="250" Margin="0,0,0,0" VerticalAlignment="Top" Width="300" SelectionChanged="ListBox_SelectionChanged"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="10,372,0,0" VerticalAlignment="Top" Width="25" Height="25"/>
+        <Label Content="Добавить список" HorizontalAlignment="Left" Height="25" Margin="40,372,0,0" VerticalAlignment="Top" Width="150"/>
+        <TextBox HorizontalAlignment="Left" Height="24" Margin="10,412,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
+        <TextBox HorizontalAlignment="Left" Height="25" Margin="450,412,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="150"/>
+        <Button Content="+" HorizontalAlignment="Left" Margin="605,412,0,0" VerticalAlignment="Top" Width="25" Height="26"/>
+        <Label Content="Добавить список" HorizontalAlignment="Left" Height="26" Margin="640,412,0,0" VerticalAlignment="Top" Width="150"/>
+    </Grid>
+</Window>
